@@ -1,0 +1,5 @@
+print("Hi my name is Aarav")
+print("The result of 5+3 is:", 5+3)
+print("Hello, welcome to my house")
+print("I'm 14 years old")
+print("I live in Malaysia")
