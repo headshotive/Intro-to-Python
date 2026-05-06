@@ -1,0 +1,5 @@
+print("Today was decent and it was fun")
+print("I played football with my friends")
+print("I go to a american school in malaysia")
+print("I love playing sports")
+print("I'm decent at maths and suck at science")
